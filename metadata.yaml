@@ -1,5 +1,8 @@
 _repo: The-League-of-the-Scarlet-Pimpernel_5805
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Orczy, Emmuska Orczy, Baroness
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/45
     wikipedia: http://en.wikipedia.org/wiki/Baroness_Orczy
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5805#The-League-of-the-Scarlet-Pimpernel
 gutenberg_bookshelf:
 - Movie Books
 - Adventure
